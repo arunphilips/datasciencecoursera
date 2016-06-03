@@ -25,21 +25,37 @@ The R Script 'run_analysis.R' performs these 6 tasks and also creates a final ti
 ### Variables
 
   "activitylabels" - Labels of activity names
+  
   "activitytest" - Activities in test file
+  
   "activitytrain" - Activities in test file
+  
   "allactivity" - Combined Activities
+  
   "alldata" - Combined Data set 
+  
   "allsubject" - Combined Subject set 
+  
   "datasep" - Separated mean and std deviation measurements      
+  
   "datatest"  - test data     
+  
   "datatrain" -  train data      
+  
   "featurenames"   - Names of Measurements
+  
   "filepath"    - File Path of Data
+  
   "finaldata"  - Final data set    
+  
   "meanstd"        - Mean and Standard deviation Feature names
+  
   "onlymeansd"     - Only mean and std deviation data
+  
   "subjecttest"   - Subject data of test
+  
   "subjecttrain"   - Subject data of train
+  
   "tidydata"      - Tiday data set, averages of measurements for subjects and activities
 
 ### Output
